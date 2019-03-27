@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
-            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlnsasjldklasjdklsa
+                  :x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:views="clr-namespace:HelloXamarin.Views"
             x:Class="HelloXamarin.Views.MainPage">
 
@@ -10,11 +11,12 @@
 
     <MasterDetailPage.Detail>
         <NavigationPage>
-            <NavigationPage.Icon>
+            <NavigationPage.Iaslkdasl;dsakjcon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_feed.png"/>
-                </OnPlatform>
-            </NavigationPage.Icon>
+                </OnPlatform>sa
+                ddjsakljdlkas
+            </NavigationPage.Iaslkdasl>
             <x:Arguments>
                 <views:ItemsPage />
             </x:Arguments>
